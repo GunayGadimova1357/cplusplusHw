@@ -1,0 +1,3 @@
+/Users/xalida/CLionProjects/librarynew/cmake-build-debug/CMakeFiles/librarynew.dir
+/Users/xalida/CLionProjects/librarynew/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xalida/CLionProjects/librarynew/cmake-build-debug/CMakeFiles/rebuild_cache.dir
