@@ -1,3 +1,0 @@
-/Users/xalida/CLionProjects/task3/cmake-build-debug/CMakeFiles/task3.dir
-/Users/xalida/CLionProjects/task3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/xalida/CLionProjects/task3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
